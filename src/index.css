@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-chunk-green: #7fa83e;
+  --color-chunk-brown: #9b6b3e;
+  --color-chunk-dark: #1a1a1a;
+}
+

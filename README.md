@@ -1,5 +1,7 @@
 # ChunkHub Frontend
 
+> **Part of the [Chunk ecosystem](https://github.com/usechunk/chunk-docs) - see [Architecture](https://github.com/usechunk/chunk-docs/blob/main/ARCHITECTURE.md)**
+
 React SPA for ChunkHub - a Minecraft mod and modpack registry.
 
 ## Stack
@@ -47,3 +49,15 @@ src/
 ## Environment
 
 Set env vars with `VITE_` prefix in `.env` file.
+
+## 📚 Documentation
+
+- [Architecture](https://github.com/usechunk/chunk-docs/blob/main/ARCHITECTURE.md) - Understanding the Chunk platform
+- [API Reference](https://github.com/usechunk/chunk-docs/blob/main/API.md) - ChunkHub API docs
+- [Contributing](https://github.com/usechunk/chunk-docs/blob/main/CONTRIBUTING.md) - Contribution guidelines
+
+## 🔗 Related Projects
+
+- [chunk-docs](https://github.com/usechunk/chunk-docs) - Central documentation
+- [chunk-api](https://github.com/usechunk/chunk-api) - Registry backend
+- [chunk-cli](https://github.com/usechunk/chunk-cli) - CLI tool

@@ -43,8 +43,8 @@ src/
 - Browse and search mods/modpacks
 - View detailed mod/modpack information
 - Pagination for lists
-- GitHub OAuth authentication
-- API integration with FastAPI backend
+- User authentication for metadata management
+- API integration with backend
 
 ## Environment
 
